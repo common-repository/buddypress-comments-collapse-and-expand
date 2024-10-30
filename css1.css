@@ -1,0 +1,18 @@
+li.new_member .expandable {
+    margin-top: 75px;
+    margin-bottom: -25px
+}
+
+.expandable {
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    background: none repeat scroll 0 0 #F4F6F8;
+    border: 1px solid #EEEEEE;
+    margin-bottom: 2px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #FFFFFF;
+}
+
+.expandable p {
+    margin: 0px;
+}
